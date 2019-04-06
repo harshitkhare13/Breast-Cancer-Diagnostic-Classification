@@ -11,3 +11,4 @@ https://en.wikipedia.org/wiki/Cross-validation_(statistics)
 http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
 - Regularization  
 https://www.datacamp.com/community/tutorials/tutorial-ridge-lasso-elastic-net
+
